@@ -40,7 +40,7 @@ As seguintes tecnologias foram usadas na construção do projeto:
 
 ### 🚀 Link de acesso para a aplicação:
 
-<a href="">Clique aqui</a>
+<a href="https://Marcos1710.github.io/quote-machine">Clique aqui</a>
 
 ### Autor
 # Marcos Santos
