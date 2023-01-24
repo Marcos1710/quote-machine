@@ -1,0 +1,17 @@
+.app {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  max-height: 100%;
+}
+
+#quote-box {
+  background-color: white;
+  width: 600px;
+  border-radius: 12px;
+}
+
+#tweet-quote {
+  height: 35px;
+}
